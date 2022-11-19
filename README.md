@@ -7,11 +7,11 @@ A warm (cool) tropical North Atlantic is associated with earlier (later) start d
 
 ### Relevant Datasets
 
-<p>Daily rainfall dataset<br>
-[GPCP Version 3.1 Daily Precipitation Data Set (GPCPDAY)](https://disc.gsfc.nasa.gov/datasets/GPCPDAY_3.1/summary)</p>
+Daily rainfall dataset
+[GPCP Version 3.1 Daily Precipitation Data Set (GPCPDAY)](https://disc.gsfc.nasa.gov/datasets/GPCPDAY_3.1/summary)
 
-<p>Sea surface temperature dataset<br>
-[NOAA Smith and Reynolds Extended Reconstructed Sea Surface Temperature (ERSST) Level 4 Monthly Version 5](https://podaac.jpl.nasa.gov/dataset/REYNOLDS_NCDC_L4_MONTHLY_V5)</p>
+Sea surface temperature dataset
+[NOAA Smith and Reynolds Extended Reconstructed Sea Surface Temperature (ERSST) Level 4 Monthly Version 5](https://podaac.jpl.nasa.gov/dataset/REYNOLDS_NCDC_L4_MONTHLY_V5)
 
 
 ### Summary  
